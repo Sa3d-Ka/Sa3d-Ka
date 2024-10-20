@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Saad Kanani's Full-Stack Learning Journey 🚀<br><br>Hey there! 👋 I'm Saad Kanani, a 1st-year student diving into the world of full-stack development. <br>This repo is a collection of projects, exercises, and resources I'm working on as I learn both front-end and back-end technologies. 🎓✨<br><br>💻 Technologies I'm Exploring:<br>- Front-end: HTML, CSS, JavaScript, React<br>- Back-end: Node.js, Express, MongoDB<br>- Version Control: Git & GitHub<br>- Extras: APIs, Databases, and more! 🎯<br><br>📚 Current Learning Focus:<br>- Building responsive websites 🌍<br>- Understanding RESTful APIs 🔄<br>- Implementing authentication & databases 🔐<br><br>🌱 Goals:<br>- Become comfortable with JavaScript on both the client and server sides 🛠️<br>- Build a fully functional full-stack web application 💡<br>- Learn through hands-on projects and code challenges 🤓<br><br>Follow along as I grow my skills one commit at a time! 🌟
+🔭 I’m currently working on: Building my first full-stack web application<br>👯 I’m looking to collaborate on: Beginner-friendly projects in web development<br>🤝 I’m looking for help with: Improving my JavaScript and database skills<br>🌱 I’m currently learning: Full-stack development with Node.js and React<br>💬 Ask me about: My journey as a 1st-year student learning to code<br>⚡ Fun fact: I love solving puzzles and can spend hours figuring out tricky coding problems!
 
 
 ## 🌐 Socials:
@@ -8,9 +8,12 @@
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sa3d-Ka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sa3d-Ka&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sa3d-Ka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3d-Ka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3d-Ka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sa3d-Ka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
