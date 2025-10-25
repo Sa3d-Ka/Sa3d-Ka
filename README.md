@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Building my first full-stack web application<br>👯 I’m looking to collaborate on Beginner-friendly projects in web development<br>🤝 I’m looking for help with Improving my JavaScript and database skills<br>🌱 I’m currently learning  Full-stack development with Node.js and React<br>💬 Ask me about My journey as a 1st-year student learning to code<br>⚡ Fun fact I love solving puzzles and can spend hours figuring out tricky coding problems!
+🎯 I’m a Full Stack Developer in training, passionate about building modern, scalable, and user-friendly web applications.
+💻 Currently focused on developing full-stack projects using React, Laravel, and Node.js.
+🤝 I’m open to collaborating on innovative and beginner-friendly projects that enhance real-world skills and teamwork.
+📚 I’m continuously improving my knowledge of JavaScript, PHP (OOP & PDO), SQL, and API integration.
+🚀 I’ve worked on projects such as an attendance management system, lesson-sharing platform, and a personal fintech dashboard with AI insights.
+💬 I enjoy tackling complex coding challenges and continuously learning through hands-on experience.
+🌍 Based in Morocco, pursuing a career in Full Stack Web Development.
 
 
 ## 🌐 Socials:
